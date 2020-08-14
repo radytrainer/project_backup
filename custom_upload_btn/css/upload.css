@@ -1,0 +1,31 @@
+body 
+{
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: sans-serif;
+}
+#upload 
+{
+    width: 100px;
+    height: 100px;
+    border: 3px dashed teal;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    cursor: pointer;
+}
+#text 
+{
+    color:#bbb;
+    margin-top: 10px;
+}
+#display-image 
+{
+    width: 100px;
+    height: 100px;
+    border: 3px dashed teal;
+    margin-left: 10px;
+}
